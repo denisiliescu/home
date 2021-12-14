@@ -54,7 +54,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "denisiliescu", //i.e."johnDoe12Gh"
-  reposLength: 1,
+  reposLength: 3,
+  specificRepos: ["denisiliescu.github.io", "SPP_ML", "Sci-Fi_Tech", "GalaxyShooter"],
 };
 
 // SKILLS SECTION
