@@ -55,7 +55,6 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "denisiliescu", //i.e."johnDoe12Gh"
   reposLength: 1,
-  specificRepos: ["denisiliescu.github.io", "SPP_ML", "Sci-Fi_Tech", "GalaxyShooter"],
 };
 
 // SKILLS SECTION
@@ -116,4 +115,4 @@ const experiences = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, skills, getInTouch, experiences};
+export { navBar, mainBody, about, repos, skills, getInTouch, experiences};
